@@ -1,0 +1,160 @@
+{
+	"tv8-viewers": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"news-weekly-listeners": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"news-monthly-streamers": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"classical-monthly-streamers": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"site-overall-pageviews": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"site-overall-users": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"site-users-device-type": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "Mobile (2018)",
+			"backgroundColor": "rgba( 255, 0, 0, 0.2 )",
+			"borderColor": "rgba( 255, 0, 0, 1 )",
+			"stack": "2018",
+			"data": []
+		}, {
+			"label": "Tablet (2018)",
+			"backgroundColor": "rgba( 128, 0, 0, 0.2 )",
+			"borderColor": "rgba( 128, 0, 0, 1 )",
+			"stack": "2018",
+			"data": []
+		}]
+	},
+	"site-sessions-device-type": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "Mobile (2018)",
+			"backgroundColor": "rgba( 255, 0, 0, 0.2 )",
+			"borderColor": "rgba( 255, 0, 0, 1 )",
+			"stack": "2018",
+			"data": []
+		}, {
+			"label": "Tablet (2018)",
+			"backgroundColor": "rgba( 128, 0, 0, 0.2 )",
+			"borderColor": "rgba( 128, 0, 0, 1 )",
+			"stack": "2018",
+			"data": []
+		}]
+	},
+	"youtube-views": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"youtube-subscribers-added": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"facebook-likes": {
+		"labels": ["January 2018", "February 2018", "March 2018", "April 2018", "May 2018", "June 2018", "July 2018"],
+		"datasets": [{
+			"label": "Likes",
+			"backgroundColor": "rgba( 0, 255, 0, 0.2 )",
+			"borderColor": "rgba( 0, 255, 0, 1 )",
+			"data": []
+		}]
+	},
+	"facebook-reach": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"twitter-hpm-rts": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"twitter-hpm-likes": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"twitter-news-rts": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	},
+	"twitter-news-likes": {
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"datasets": [{
+			"label": "2018",
+			"backgroundColor": "rgba(59,89,152,0.2 )",
+			"borderColor": "rgba(59,89,152,1 )",
+			"data": []
+		}]
+	}
+}

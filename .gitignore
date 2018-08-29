@@ -1,0 +1,9 @@
+creds/*
+!creds/.gitkeep
+data/*
+!data/.gitkeep
+!data/yoy-data-sample.json
+composer.lock
+vendor/
+.env
+data.php
