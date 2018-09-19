@@ -442,6 +442,6 @@
 	$spreadsheet->removeSheetByIndex( $sheetIndex );
 
 	// Write XLSX file
-	$writer =  new Xlsx( $spreadsheet );
+	$writer = new PhpOffice\PhpSpreadsheet\Writer\Xlsx( $spreadsheet );
 	$writer->save( BASE . DS . 'data' . DS . 'analytics-'.$date_in.'.xlsx' );
 ?>
