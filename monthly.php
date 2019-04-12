@@ -43,6 +43,7 @@
 	define( 'GA_MAIN', env( 'GA_MAIN' ) );
 	define( 'YT_ACCESS', BASE . DS . env( 'YT_ACCESS' ) );
 	define( 'YT_CLIENT', BASE . DS . env( 'YT_CLIENT' ) );
+	define( 'YT_CHANNEL_ID', env( 'YT_CHANNEL_ID' ) );
 	define( 'APP_URL', env( 'APP_URL' ) );
 	define( 'FROM_EMAIL', env( 'FROM_EMAIL' ) );
 	$cf_distro = env( 'CF_DISTRO' );

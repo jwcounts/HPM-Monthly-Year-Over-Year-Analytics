@@ -12,7 +12,7 @@
 			'day' => 'page_impressions_unique'
 		],
 		1 => [
-			'lifetime' => 'page_fans'
+			'day' => 'page_fans'
 		]
 	];
 	$reach = [];
