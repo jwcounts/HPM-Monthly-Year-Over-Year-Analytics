@@ -21,14 +21,14 @@ let chartData = []
 
 // TV 8 Viewers
 Vue.component('tv-eight-viewers', {
-	extends: Line,
+	extends: Bar,
 	props: [ 'chartData' ],
 	data() {
 		return {
 			options: {
 				elements: {
-					line: {
-						tension: 0
+					rectangle: {
+						borderWidth: 2
 					}
 				},
 				maintainAspectRatio: false,
@@ -37,8 +37,10 @@ Vue.component('tv-eight-viewers', {
 					position: 'bottom',
 				},
 				title: {
-					display: false
-				}
+					display: true,
+					text: 'TV: Cume Persons 2+',
+					fontSize: 16
+				},
 			}
 		}
 	},
@@ -49,14 +51,14 @@ Vue.component('tv-eight-viewers', {
 
 // News 88.7 - Weekly Listeners
 Vue.component('news-listen', {
-	extends: Line,
+	extends: Bar,
 	props: [ 'chartData' ],
 	data() {
 		return {
 			options: {
 				elements: {
-					line: {
-						tension: 0
+					rectangle: {
+						borderWidth: 2
 					}
 				},
 				maintainAspectRatio: false,
@@ -79,14 +81,14 @@ Vue.component('news-listen', {
 
 // News 88.7 - Monthly Streamers
 Vue.component('news-stream', {
-	extends: Line,
+	extends: Bar,
 	props: [ 'chartData' ],
 	data() {
 		return {
 			options: {
 				elements: {
-					line: {
-						tension: 0
+					rectangle: {
+						borderWidth: 2
 					}
 				},
 				maintainAspectRatio: false,
@@ -109,14 +111,14 @@ Vue.component('news-stream', {
 
 // Classical - Monthly Streamers
 Vue.component('classical-stream', {
-	extends: Line,
+	extends: Bar,
 	props: [ 'chartData' ],
 	data() {
 		return {
 			options: {
 				elements: {
-					line: {
-						tension: 0
+					rectangle: {
+						borderWidth: 2
 					}
 				},
 				maintainAspectRatio: false,
@@ -125,8 +127,10 @@ Vue.component('classical-stream', {
 					position: 'bottom',
 				},
 				title: {
-					display: false
-				}
+					display: true,
+					text: 'Classical: Streaming Unique Listeners',
+					fontSize: 16
+				},
 			}
 		}
 	},
