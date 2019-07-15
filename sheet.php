@@ -292,7 +292,7 @@
 		'', '', '', '', '', '', '', '', '', '', '', '', ''
 	];
 	$sheets['Dashboard'][] = [
-		'@HPMNews887', '', '', '', '', '', '', '', '', '', '', '', ''
+		'@HPMPolitics', '', '', '', '', '', '', '', '', '', '', '', ''
 	];
 
 	/**
@@ -418,7 +418,7 @@
 	foreach ( $sheets['Dashboard'] as $k => $v ) :
 		$n = 0;
 		foreach ( $v as $vv ) :
-			if ( !empty( $vv ) ) :
+			if ( !empty( $vv ) || $vv === 0 ) :
 				$n++;
 			endif;
 		endforeach;

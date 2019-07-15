@@ -97,11 +97,11 @@
 			'graph' => 'twitter-hpm-likes',
 			'status' => false
 		],
-		'@HPMNews887 Retweets' => [
+		'@HPMPolitics Retweets' => [
 			'graph' => 'twitter-news-rts',
 			'status' => false
 		],
-		'@HPMNews887 Likes' => [
+		'@HPMPolitics Likes' => [
 			'graph' => 'twitter-news-likes',
 			'status' => false
 		]

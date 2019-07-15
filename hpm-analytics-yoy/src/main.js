@@ -474,7 +474,7 @@ Vue.component('twitter-news-rts', {
 				},
 				title: {
 					display: true,
-					text: '@HPMNews887 Retweets',
+					text: '@HPMPolitics Retweets',
 					fontSize: 16
 				}
 			}
@@ -504,7 +504,7 @@ Vue.component('twitter-news-likes', {
 				},
 				title: {
 					display: true,
-					text: '@HPMNews887 Likes/Favorites',
+					text: '@HPMPolitics Likes/Favorites',
 					fontSize: 16
 				}
 			}
